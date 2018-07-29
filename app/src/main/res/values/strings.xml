@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UiComponents</string>
+    <string name="title_activity_main">UI Components</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">UI Components</string>
+    <string name="nav_header_subtitle">olga@cottondroid.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!-- buttons -->
+    <string name="buttons">Buttons</string>
+    <string name="button_no_style">Button no style</string>
+    <string name="button_bordeless">Button boderless</string>
+    <string name="button_colored">Button colored</string>
+    <string name="button_colored_borderless">Button borderless</string>
+
+</resources>
